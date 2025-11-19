@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MiApp2</string>
+
+    <string name="titulo_clientes">Gestión de Clientes</string>
+    <string name="bienvenida_clientes">Añade contactos nuevos con el botón + para comenzar.</string>
+    <string name="buscar_cliente_hint">Buscar por nombre o email</string>
+    <string name="contador_clientes">Total: 0 clientes</string>
+    <string name="agregar_cliente">Añadir cliente</string>
+</resources>
