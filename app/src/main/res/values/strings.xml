@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MiApp2</string>
+    <string name="app_name">Gestor Clientes</string>
 
     <string name="titulo_clientes">Gestión de Clientes</string>
     <string name="bienvenida_clientes">Añade contactos nuevos con el botón + para comenzar.</string>

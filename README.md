@@ -29,7 +29,7 @@ Esta práctica se enfoca en las operaciones CRUD (crear, leer, actualizar, elimi
 
 ### Pantalla Principal
 
-![Pantalla principal](screenshots/pantalla_principal.png)
+![Pantalla1.png](screenshots/Pantalla1.png)
 
 - Título “Gestión de Clientes” en recuadro azul oscuro.
 - Mensaje de bienvenida explicando el propósito.
@@ -42,7 +42,7 @@ Esta práctica se enfoca en las operaciones CRUD (crear, leer, actualizar, elimi
 
 ### Pantalla de Formulario
 
-![Formulario cliente](screenshots/formulario_cliente.png)
+![Pantalla2.png](screenshots/Pantalla2.png)
 
 - Formulario para crear o editar clientes con campos de nombre, email y teléfono.
 - Validación automática para asegurarse que los datos ingresados son correctos y obligatorios.
@@ -101,8 +101,7 @@ MiApp2/
 
 ## Conclusión
 
-Con esta práctica he aprendido a construir una app Android completa que gestiona datos localmente, valida entradas, y ofrece una buena experiencia de usuario con búsquedas y contadores en tiempo real.  
-El proyecto está listo para entregar y cumple los requisitos necesarios para obtener la máxima nota.
+Con esta práctica he aprendido a construir una app Android completa que gestiona datos localmente, valida entradas, y ofrece una buena experiencia de usuario con búsquedas y contadores en tiempo real.
 
 
 
